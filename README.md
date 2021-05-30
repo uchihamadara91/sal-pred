@@ -1,2 +1,1 @@
-# sal-pred
-prediction of salary trial
+"# Heroku-sal-predict" 
